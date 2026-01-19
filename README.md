@@ -1,6 +1,6 @@
 # Excel-Projects
 
-**## Project Overview
+## Project Overview
 
 This repository contains a collection of Excel projects completed during the first week of my bootcamp course. The focus of this week was to build a strong foundation in Microsoft Excel, developing essential skills for data handling, analysis, and presentation.
 
